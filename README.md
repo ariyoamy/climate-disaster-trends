@@ -1,2 +1,4 @@
-# climate-disaster-trends
-How climate-related disaster reports have changed since 1960. Stacked area animation, heatmaps and trend lines from EM-DAT data.
+# Climate Disaster Trends
+
+An animated data story showing how reported weather and climate disasters have changed from 1960 to 2024.
+![Animated stacked area chart of climate disaster trends](figures/tba.gif)
