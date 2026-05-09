@@ -246,7 +246,7 @@ for bar, val in zip(bars, values):
 
 ax2.set_ylabel("Total reported events", fontsize=10)
 ax2.set_title("Climate Disaster Reports by Decade",
-              fontsize=13, fontweight="bold", loc="left", pad=10)
+              fontsize=13, fontweight="bold", loc="left", pad=22)
 ax2.text(0.0, 1.01, "Flood + Storm + Drought + Extreme temp. + Wildfire",
          transform=ax2.transAxes, fontsize=9, color="#666666",
          va="bottom")
