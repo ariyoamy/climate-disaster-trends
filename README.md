@@ -94,7 +94,7 @@ None of this means the trends are meaningless, but separating the climate signal
 - Build an interactive version with Plotly or D3 for exploring individual years.
 
 ## Contact
-
-Made by Amy Ariyo. Feel free to open an issue if you spot a bug or have ideas for extending the analysis!
+Any feedback is welcome and encouraged!
+- **Find me on:** [LinkedIn](https://www.linkedin.com/in/amy-ariyo-5882ab219)
 
 Data: EM-DAT/Our World in Data.
